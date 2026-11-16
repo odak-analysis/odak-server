@@ -1,0 +1,12 @@
+# Framework-specific entries are added when the framework is chosen.
+
+# Secrets and local settings
+.env
+.env.*
+!.env.example
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
